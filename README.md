@@ -11,7 +11,7 @@
 
 ```bash
 # 1. პროექტის კლონირება
-git clone https://github.com//rag-civil-code.git
+git clone https://github.com/MoRnINgStaR1994/rag-civil-code.git
 cd rag-civil-code
 
 # 2. ვირტუალური გარემოს შექმნა და აქტივაცია
