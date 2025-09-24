@@ -1,4 +1,4 @@
-# ⚖ RAG Civil Code Chatbot (ქართული)
+#  RAG Civil Code Chatbot (ქართული)
 
 ეს არის **Retrieval-Augmented Generation (RAG)** ჩეთბოტი, რომელიც გეხმარება **საქართველოს სამოქალაქო კოდექსის** ტექსტზე კითხვების დასმასა და პასუხების მიღებაში ქართულ ენაზე.  
 პროექტი იყენებს **FAISS vector store-ს**, **HuggingFace embeddings-ს** და **HuggingFace LLM-ს** ტექსტის დასამუშავებლად.
